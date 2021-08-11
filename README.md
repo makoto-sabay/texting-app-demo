@@ -1,12 +1,13 @@
+# Caution
 Not yet implemented.
 
-# version
+## version
 ```
 Flutter 2.2.3
 Tools • Dart 2.13.4
 ```
 　
-# dependencies
+## dependencies
 ```
     sdk: flutter
     firebase_core: "^1.4.0"
@@ -21,6 +22,5 @@ Tools • Dart 2.13.4
     font_awesome_flutter: ^9.0.0-nullsafety
 ```
 
-# texting-app-demo
+## Demo
 Demo Movie: https://youtu.be/iRTAVnPidgc
-
