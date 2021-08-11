@@ -3,7 +3,7 @@ Not yet implemented.
 # texting-app-demo
 Demo Movie: https://youtu.be/iRTAVnPidgc
 
-----------------------------------------------------------
+
 Flutter 2.2.3
 Tools • Dart 2.13.4
 　
@@ -20,4 +20,4 @@ dependencies:
     qr_flutter: ^4.0.0
     qr_code_scanner: ^0.5.2
     font_awesome_flutter: ^9.0.0-nullsafety
-----------------------------------------------------------
+
