@@ -1,5 +1,4 @@
 # About this app
-　
 ## Caution
 Not yet implemented.
 　
@@ -23,6 +22,6 @@ Tools • Dart 2.13.4
     qr_code_scanner: ^0.5.2
     font_awesome_flutter: ^9.0.0-nullsafety
 ```
-
+　
 ## Demo
 https://youtu.be/iRTAVnPidgc
