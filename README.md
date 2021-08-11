@@ -1,7 +1,9 @@
-# Caution
+# About this app
+
+## Caution
 Not yet implemented.
 
-## version
+## Version
 ```
 Flutter 2.2.3
 Tools • Dart 2.13.4
