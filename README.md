@@ -1,6 +1,6 @@
 # About this app
 ## Caution
-Not yet implemented.
+> Not yet implemented.
 　
 ## Version
 ```
