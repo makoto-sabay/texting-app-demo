@@ -10,11 +10,8 @@ Tools • Dart 2.13.4
 dependencies:
   flutter:
     sdk: flutter
-    
     firebase_core: "^1.4.0"
-    
     firebase_auth: "^3.0.1"
-    
     image_picker: ^0.8.2
     cloud_firestore: ^2.0.0
     provider: ^5.0.0
