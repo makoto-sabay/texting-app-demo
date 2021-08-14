@@ -1,6 +1,9 @@
 # About this app
 ## Caution
 > Not yet implemented.
+> ・Can't set the user's image
+> ・Can't scan qr code
+> ・Can't send messages
 　
 ## Version
 ```
